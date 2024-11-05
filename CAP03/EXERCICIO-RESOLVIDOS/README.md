@@ -1,7 +1,16 @@
 # EXERCÍCIOS RESOLVIDOS DO CAPÍTULO 3
 Repositório referente à matéria de POO
 
-Lista de exercícios:
+## Resumo do capítulo 3:
+
+A estrutura sequencial em Java é a execução linear de instruções, onde as ações são realizadas na ordem em que aparecem, sem desvios, decisões ou repetições. Esse modelo é utilizado para resolver problemas de forma direta e simples. A declaração de variáveis em Java serve para reservar um espaço na memória para armazenar dados, sendo feita ao definir o tipo de dado e o nome da variável, como int idade. O comando de atribuição armazena valores nas variáveis, utilizando o operador =, como idade = 25.
+
+Os comandos de entrada em Java permitem capturar dados do usuário, geralmente com a classe Scanner, que lê os dados inseridos no console. Já os comandos de saída são usados para exibir informações ao usuário, sendo feitos com System.out.print ou System.out.println. A diferença entre eles é que o println exibe a informação e pula para a linha seguinte, enquanto o print mantém o cursor na mesma linha.
+
+Em resumo, a estrutura sequencial, a declaração de variáveis, a atribuição, os comandos de entrada e os comandos de saída em Java seguem uma lógica simples e clara, permitindo a criação de algoritmos estruturados, com operações realizadas em sequência, sem desvios no fluxo de execução.
+
+## Lista de exercícios:
+
 - [Exercício 1:](EXE01)
   Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 - [Exercício 2:](EXE02)
