@@ -1,9 +1,8 @@
 # EXERCÍCIOS RESOLVIDOS DO CAPÍTULO 3
-Repositório referente à matéria de POO
 
-## Resumo do capítulo 3:
+## 📖 Resumo do capítulo 3
 
-A estrutura sequencial em Java é a execução linear de instruções, onde as ações são realizadas na ordem em que aparecem, sem desvios, decisões ou repetições. Esse modelo é utilizado para resolver problemas de forma direta e simples. A declaração de variáveis em Java serve para reservar um espaço na memória para armazenar dados, sendo feita ao definir o tipo de dado e o nome da variável, como int idade. O comando de atribuição armazena valores nas variáveis, utilizando o operador =, como idade = 25.
+A estrutura sequencial em **Java** é a execução linear de instruções, onde as ações são realizadas na ordem em que aparecem, sem desvios, decisões ou repetições. Esse modelo é utilizado para resolver problemas de forma direta e simples. A declaração de variáveis em Java serve para reservar um espaço na memória para armazenar dados, sendo feita ao definir o tipo de dado e o nome da variável, como int idade. O comando de atribuição armazena valores nas variáveis, utilizando o operador =, como idade = 25.
 
 Os comandos de entrada em Java permitem capturar dados do usuário, geralmente com a classe Scanner, que lê os dados inseridos no console. Já os comandos de saída são usados para exibir informações ao usuário, sendo feitos com System.out.print ou System.out.println. A diferença entre eles é que o println exibe a informação e pula para a linha seguinte, enquanto o print mantém o cursor na mesma linha.
 
@@ -35,54 +34,41 @@ que este sofreu um aumento de 25%.
 - [Exercício 11:](EXE11)
   Faça um programa que receba um número positivo e maior que zero, calcule e mostre:
 
-  a) o número digitado ao quadrado;
-
-  b) o número digitado ao cubo;
-
-  c) a raiz quadrada do número digitado;
-
+  a) o número digitado ao quadrado;  
+  b) o número digitado ao cubo;  
+  c) a raiz quadrada do número digitado;  
   d) a raiz cúbica do número digitado.
 - [Exercício 12:](EXE12)
   Faça um programa que receba dois números maiores que zero, calcule e mostre um elevado ao outro.
 - [Exercício 13:](EXE13)
   Sabe-se que:
 
-  pé = 12 polegadas
-
-  1 jarda = 3 pés
-
+  1 pé = 12 polegadas  
+  1 jarda = 3 pés  
   1 milha = 1,760 jarda
 
   Faça um programa que receba uma medida em pés, faça as conversões a seguir e mostre os resultados.
 
-  a) polegadas;
-
-  b) jardas;
-
+  a) polegadas;  
+  b) jardas;  
   c) milhas.
 - [Exercício 14:](EXE14)
   Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:
 
-  a) a idade dessa pessoa; 
-
+  a) a idade dessa pessoa;  
   b) quantos anos ela terá em 2050.
 - [Exercício 15:](EXE15)
   O custo ao consumidor de um carro novo é a soma do preço de fábrica com o percentual de lucro do distribuidor e dos impostos aplicados ao preço de fábrica. Faça um programa que receba o preço de fábrica de um veículo, o percentual de lucro do distribuidor e o percentual de impostos, calcule e mostre:
 
-  a) o valor correspondente ao lucro do distribuidor;
-
-  b) o valor correspondente aos impostos;
-
+  a) o valor correspondente ao lucro do distribuidor;  
+  b) o valor correspondente aos impostos;  
   c) o preço final do veículo.
 - [Exercício 16:](EXE16)
   Faça um programa que receba o número de horas trabalhadas e o valor do salário mínimo, calcule e mostre o salário a receber, seguindo estas regras:
 
-  a) a hora trabalhada vale a metade do salário mínimo.
-
-  b) o salário bruto equivale ao número de horas trabalhadas multiplicado pelo valor da hora trabalhada.
-
-  c) o imposto equivale a 3% do salário bruto.
-
+  a) a hora trabalhada vale a metade do salário mínimo.  
+  b) o salário bruto equivale ao número de horas trabalhadas multiplicado pelo valor da hora trabalhada.  
+  c) o imposto equivale a 3% do salário bruto.  
   d) o salário a receber equivale ao salário bruto menos o imposto.
 - [Exercício 17:](EXE17)
   Um trabalhador recebeu seu salário e o depositou em sua conta bancária. Esse trabalhador emitiu dois cheques e agora deseja saber seu saldo atual. Sabe-se que cada operação bancária de retirada paga CPMF de 0,38% e o saldo inicial da conta está zerado.
@@ -99,24 +85,19 @@ Observação: as funções trigonométricas implementadas nas linguagens de prog
 - [Exercício 22:](EXE22)
   Sabe-se que o quilowatt de energia custa um quinto do salário mínimo. Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência. Calcule e mostre:
 
-  a) o valor de cada quilowatt;
-
-  b) o valor a ser pago por essa residência;
-
+  a) o valor de cada quilowatt;  
+  b) o valor a ser pago por essa residência;  
   c) o valor a ser pago com desconto de 15%.
 - [Exercício 23:](EXE23)
   Faça um programa que receba um número real, encontre e mostre:
 
-  a) a parte inteira desse número;
-
-  b) a parte fracionária desse número;
-
+  a) a parte inteira desse número;  
+  b) a parte fracionária desse número;  
   c) o arredondamento desse número.
 - [Exercício 24:](EXE24)
   Faça um programa que receba uma hora formada por hora e minutos (um número real), calcule e mostre a hora digitada apenas em minutos. Lembre-se de que:
 
-  - para quatro e meia, deve-se digitar 4.30;
-
+  - para quatro e meia, deve-se digitar 4.30;  
   - os minutos vão de 0 a 59.
 - [Exercício 25:](EXE25)
   Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo. Esse programa deverá calcular e mostrar a quantidade de convites que devem ser vendidos para que, pelo menos, o custo do espetáculo seja alcançado.
