@@ -1,3 +1,5 @@
 # 📌 1° Lista de exercícios - Programação Orientada a Objetos (POO)
-**Breve descrição:** Este repositório contém uma lista de exercícios da disciplina de Programação Orientada a Objetos, ministrada pelo professor Roger Moura Sarmento no IFCE - Campus Maranguape. 
-Primeira lista de exercícios referente a disciplina de Programação Orientada a Objeto (POO)
+### 📘 Descrição   
+Este repositório contém uma lista de exercícios da disciplina de Programação Orientada a Objetos, ministrada pelo professor Roger Moura Sarmento no IFCE - Campus Maranguape. Os exercícios são baseados no Capítulo 03 - Estrutura Sequencial do livro Fundamentos da Programação de Computadores, das autoras Ana F. G. Ascencio e Edilene A. V. de Campos. 
+
+### 
