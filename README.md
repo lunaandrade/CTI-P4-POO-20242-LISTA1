@@ -5,4 +5,8 @@ Este repositório contém uma lista de exercícios da disciplina de Programaçã
 ### ☕Linguagem utilizada
 - ***Java***
 
+### 💡Membros da equipe
+- [Luna Andrade Osterne](https://github.com/lunaandrade)
+- [Maria Naely do Nascimento Paz](https://github.com/Naelypaz)
+- [Ana Letícia Araújo Nunes](https://github.com/leticia510)
 
