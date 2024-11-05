@@ -5,7 +5,4 @@ Este repositório contém uma lista de exercícios da disciplina de Programaçã
 ### ☕Linguagem utilizada
 - ***Java***
 
-### Membros da Equipe
-- [Maria Naely do Nascimento Paz](https://github.com/NaelyPaz)
-- 
 
